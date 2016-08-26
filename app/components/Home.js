@@ -1,6 +1,6 @@
 var React = require('react');
 var ReactRouter = require('react-router');
-var MainContainer = require('../containers/MainContainer');
+var MainContainer = require('./MainWrapper');
 
 var Home = React.createClass({
   render: function () {
